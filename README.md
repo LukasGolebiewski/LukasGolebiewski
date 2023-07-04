@@ -5,8 +5,6 @@
 - My goal is to develop testing knowledge and technical skills
 - On this site I would like to share my all gained experience from personal studies and researches
 - I’m currently learning basics of HTML and CSS.
-- I’m looking to collaborate on ...
-- How to reach me ...
 
 # TOOLS
 
