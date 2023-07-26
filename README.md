@@ -10,14 +10,14 @@
 
 - Postman - testing REST API
 - Jira, Trello
-- TestRail - bug 
+- TestRail - for tracking all test activities and metrics in a single platform 
 - SQL (DBeeaver, PopSQL) - first steps in query language
-- DevTools
+- DevTools - tools for testing and debugging source code
 - HTML, CSS - currently building my personal portoflio website
 - Visual Studio Code - for "coding"
 - XML, JSON
-- HTTP
-- Code 2 FLOW
+- HTTP - 
+- Code 2 FLOW - pseudocode visualization
 - Bug Magnet - Exploratory testing assistant for Chrome and Firefox
 - Mouse Recorder - mouse and keyboard recording macro
 - xPath Finder - xPath finding tool
@@ -46,6 +46,8 @@
 - HTML & CSS Full Course - Beginner to Pro
 - SDET - Manual Software Testing Training
 - SDET - Postman Beginners Crash Course
+
+# PROJECTS
 
 
 <!---
