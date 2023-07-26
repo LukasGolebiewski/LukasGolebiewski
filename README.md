@@ -42,6 +42,12 @@
 
 # COURSES AND CERTIFICATES
 
+- GOIT - QA Engineer
+- HTML & CSS Full Course - Beginner to Pro
+- SDET - Manual Software Testing Training
+- SDET - Postman Beginners Crash Course
+
+
 <!---
 LukasGolebiewski/LukasGolebiewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
