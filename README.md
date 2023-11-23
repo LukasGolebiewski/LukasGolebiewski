@@ -11,11 +11,11 @@
 - Postman - testing REST API
 - Jira, Trello
 - TestRail - for tracking all test activities and metrics in a single platform 
-- SQL (DBeeaver, PopSQL, PostGreSQL) - finishing another course 'The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla
+- SQL (DBeeaver, PopSQL, PostGreSQL)
 - DevTools - tools for testing and debugging source code
-- HTML, CSS  - 'HTML & CSS Full Course - Beginner to Pro' SuperSimpleDev - youtube clone project
+- HTML, CSS 
 - Visual Studio Code - for "coding"
-- Python - currently learning some basics thanks by '100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu
+- Python - currently learning some basics thanks by Dr. Angela Yu
 - XML, JSON
 - HTTP - 
 - Code 2 FLOW - pseudocode visualization
@@ -52,6 +52,9 @@
 - HTML & CSS Full Course - Beginner to Pro
 - SDET - Manual Software Testing Training
 - SDET - Postman Beginners Crash Course
+- The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla
+- Beginner to Pro' SuperSimpleDev - youtube clone project
+- 100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu
 
 # PROJECTS
 
