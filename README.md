@@ -6,15 +6,16 @@
 - On this site I would like to share my all gained experience from personal studies and researches
 - I’m currently learning basics of HTML and CSS.
 
-# TOOLS
+# TOOLS and TECHNOLOGIES
 
 - Postman - testing REST API
 - Jira, Trello
 - TestRail - for tracking all test activities and metrics in a single platform 
-- SQL (DBeeaver, PopSQL) - first steps in query language
+- SQL (DBeeaver, PopSQL, PostGreSQL) - finishing another course 'The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla
 - DevTools - tools for testing and debugging source code
-- HTML, CSS - currently building my personal portoflio website
+- HTML, CSS  - 'HTML & CSS Full Course - Beginner to Pro' SuperSimpleDev - youtube clone project
 - Visual Studio Code - for "coding"
+- Python - currently learning some basics thanks by '100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu
 - XML, JSON
 - HTTP - 
 - Code 2 FLOW - pseudocode visualization
@@ -22,6 +23,11 @@
 - Mouse Recorder - mouse and keyboard recording macro
 - xPath Finder - xPath finding tool
 - Github
+
+# TOOLS/TECHNOLOGY TO LEARN NEXT
+
+- noSQL (MongoDB) -'MongoDB - The Complete Developer's Guide 2023' Academind by Maximilian Schwarzmüller - already waiting to go through the tutorial
+
 
 # BOOKS READ 
 - Zawód Tester
