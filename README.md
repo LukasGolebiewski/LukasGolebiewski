@@ -49,11 +49,10 @@
 # COURSES AND CERTIFICATES
 
 - GOIT - QA Engineer
-- HTML & CSS Full Course - Beginner to Pro
+- HTML & CSS Full Course - Beginner to Pro - SuperSimpleDev - youtube clone project
 - SDET - Manual Software Testing Training
 - SDET - Postman Beginners Crash Course
 - The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla
-- Beginner to Pro' SuperSimpleDev - youtube clone project
 - 100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu
 
 # PROJECTS
