@@ -4,7 +4,7 @@
 - I have started to interest of software testing
 - My goal is to develop testing knowledge and technical skills
 - On this site I would like to share my all gained experience from personal studies and researches
-- I’m currently learning basics of HTML and CSS.
+- I’m currently learning SQL queries and some Python basics
 
 # TOOLS and TECHNOLOGIES
 
@@ -15,7 +15,7 @@
 - DevTools - tools for testing and debugging source code
 - HTML, CSS 
 - Visual Studio Code - for "coding"
-- Python - currently learning some basics thanks by Dr. Angela Yu
+- Python
 - XML, JSON
 - HTTP - 
 - Code 2 FLOW - pseudocode visualization
