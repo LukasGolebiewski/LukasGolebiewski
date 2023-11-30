@@ -32,7 +32,7 @@
 
 
 # BOOKS READ 
-- [Zawód Tester - R.Smilgin ](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
+- [Zawód Tester - R.Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
 
 # BOOKS TO READ
 - Jakość projektów informatycznych. Rozwój i testowanie oprogramowania - Karolina Zmitrowicz
