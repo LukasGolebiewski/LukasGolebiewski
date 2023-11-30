@@ -26,7 +26,7 @@
 
 # TOOLS/TECHNOLOGY TO LEARN NEXT
 
-- noSQL (MongoDB) -'MongoDB - The Complete Developer's Guide 2023' Academind by Maximilian Schwarzmüller - already waiting to go through the tutorial
+- [noSQL (MongoDB) -'MongoDB - The Complete Developer's Guide 2023' Academind by Maximilian Schwarzmüller]([https://pages.github.com](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)/).
 - [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)
 
 
