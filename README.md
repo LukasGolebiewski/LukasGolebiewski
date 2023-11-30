@@ -27,7 +27,7 @@
 # TOOLS/TECHNOLOGY TO LEARN NEXT
 
 - [noSQL (MongoDB) -'MongoDB - The Complete Developer's Guide 2023' Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/mongodb-the-complete-developers-guide/).
-- [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)
+- [Postman: The Complete Guide - REST API Testing - Valentin Despa](https://www.udemy.com/course/postman-the-complete-guide/)
 
 
 
@@ -35,7 +35,7 @@
 - [Zawód Tester - R.Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
 
 # BOOKS TO READ
-- Jakość projektów informatycznych. Rozwój i testowanie oprogramowania - Karolina Zmitrowicz
+- [Jakość projektów informatycznych. Rozwój i testowanie oprogramowania - Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/276514/jakosc-projektow-informatycznych-rozwoj-i-testowanie-oprogramowania)
 - Tap Into Mobile Application - Jonathan Kohl
 - Testy jednostkowe. Świat niezawodnych aplikacji - Roy Osherove
 - Testowanie oprogramowania. Podręcznik dla początkujących - Rafał Pawlak
@@ -55,7 +55,7 @@
 - SDET - Manual Software Testing Training
 - SDET - Postman Beginners Crash Course
 - The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla - in the process
-- 100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu - in the process
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu - in the process](https://www.udemy.com/course/100-days-of-code/)
 
 # PROJECTS
 
