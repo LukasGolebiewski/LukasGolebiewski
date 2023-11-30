@@ -27,6 +27,8 @@
 # TOOLS/TECHNOLOGY TO LEARN NEXT
 
 - noSQL (MongoDB) -'MongoDB - The Complete Developer's Guide 2023' Academind by Maximilian Schwarzmüller - already waiting to go through the tutorial
+- [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)
+
 
 
 # BOOKS READ 
@@ -51,7 +53,7 @@
 - GOIT - QA Engineer
 - HTML & CSS Full Course - Beginner to Pro - SuperSimpleDev - youtube clone project - in the process
 - SDET - Manual Software Testing Training
-- SDET - Postman Beginners Crash Course - This site was built using [GitHub Pages]((https://www.udemy.com/course/postman-the-complete-guide/))
+- SDET - Postman Beginners Crash Course
 - The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla - in the process
 - 100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu - in the process
 
