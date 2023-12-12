@@ -11,7 +11,7 @@
 - Postman - testing REST API
 - Jira, Trello
 - TestRail - for tracking all test activities and metrics in a single platform 
-- SQL (DBeeaver, PopSQL, PostGreSQL)
+- SQL (DBeeaver, PopSQL, PostgreSQL)
 - DevTools - tools for testing and debugging source code
 - HTML, CSS 
 - Visual Studio Code - for "coding"
