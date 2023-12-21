@@ -8,13 +8,12 @@
 
 # TOOLS and TECHNOLOGIES
 
-- Postman - testing REST API
-- Jira, Trello
-- TestRail - for tracking all test activities and metrics in a single platform 
-- SQL (DBeeaver, PopSQL, PostgreSQL)
+- [Postman - testing REST API](https://www.postman.com)
+- [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com)
+- [TestRail - for tracking all test activities and metrics in a single platform ](https://www.testrail.com/)
 - DevTools - tools for testing and debugging source code
 - HTML, CSS 
-- Visual Studio Code - for "coding"
+- [Visual Studio Code - for "coding"](https://code.visualstudio.com)
 - Python
 - XML, JSON
 - HTTP - 
