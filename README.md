@@ -36,11 +36,11 @@
 # BOOKS TO READ
 - [Jakość projektów informatycznych. Rozwój i testowanie oprogramowania - Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/276514/jakosc-projektow-informatycznych-rozwoj-i-testowanie-oprogramowania)
 - Tap Into Mobile Application - Jonathan Kohl
-- Testy jednostkowe. Świat niezawodnych aplikacji - Roy Osherove
-- Testowanie oprogramowania. Podręcznik dla początkujących - Rafał Pawlak
-- Full Stack Testing - O'Reilly
-- Sodtware Requirements - Karl Wiegers, Joy Beatty
-- How Tests Software - James Whittakes, Jason Arbon, Jeff Carollo
+- [Testy jednostkowe. Świat niezawodnych aplikacji - Roy Osherove](https://lubimyczytac.pl/ksiazka/243300/testy-jednostkowe-swiat-niezawodnych-aplikacji)
+- [Testowanie oprogramowania. Podręcznik dla początkujących - Rafał Pawlak](https://lubimyczytac.pl/ksiazka/236563/testowanie-oprogramowania-podrecznik-dla-poczatkujacych)
+- [Full Stack Testing - O'Reilly](https://helion.pl/ksiazki/testowanie-full-stack-praktyczny-przewodnik-dostarczania-oprogramowania-wysokiej-jakosci-gayathri-mohan,tefust.htm#format/d)
+- Software Requirements - Karl Wiegers, Joy Beatty
+- [How Tests Software - James Whittakes, Jason Arbon, Jeff Carollo](https://lubimyczytac.pl/ksiazka/199649/how-google-tests-software)
 - Handbook of Software Quality Assurance - G. Gordon Schulmeyer
 - Exploratory Software Testing - James A. Whittakes
 - Czysty Kod. Podrecznik dobrego programisty - Robert C. Martin
