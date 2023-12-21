@@ -11,7 +11,7 @@
 - [Postman - testing REST API](https://www.postman.com)
 - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com)
 - [TestRail - for tracking all test activities and metrics in a single platform ](https://www.testrail.com/)
-- DevTools - tools for testing and debugging source code
+- [DevTools - tools for testing and debugging source code](https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/)
 - HTML, CSS 
 - [Visual Studio Code - for "coding"](https://code.visualstudio.com)
 - [Python](https://www.python.org)
