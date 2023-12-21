@@ -14,12 +14,12 @@
 - DevTools - tools for testing and debugging source code
 - HTML, CSS 
 - [Visual Studio Code - for "coding"](https://code.visualstudio.com)
-- Python
+- [Python](https://www.python.org)
 - XML, JSON
-- HTTP - 
-- Code 2 FLOW - pseudocode visualization
-- Bug Magnet - Exploratory testing assistant for Chrome and Firefox
-- Mouse Recorder - mouse and keyboard recording macro
+- [HTTP](https://www.freecodecamp.org/news/what-is-http/)
+- [Code 2 FLOW - pseudocode visualization](https://code2flow.com)
+- [Bug Magnet - Exploratory testing assistant for Chrome and Firefox](https://bugmagnet.org)
+- [Mouse Recorder - mouse and keyboard recording macro](https://www.mouserecorder.com)
 - xPath Finder - xPath finding tool
 - Github
 
