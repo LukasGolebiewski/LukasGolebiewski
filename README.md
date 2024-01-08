@@ -49,12 +49,13 @@
 
 # COURSES AND CERTIFICATES
 
-- [GOIT - QA Engineer](https://www.goit.global)
+- [GOIT - QA Engineer --- finished-----](https://www.goit.global)
 - [HTML & CSS Full Course - Beginner to Pro - SuperSimpleDev - youtube clone project - in the process](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=4809s)
 - SDET - Manual Software Testing Training
 - SDET - Postman Beginners Crash Course
-- [The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla - in the process](https://www.udemy.com/course/the-complete-sql-bootcamp/)
-- [100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu - in the process](https://www.udemy.com/course/100-days-of-code/)
+- [The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla ----- finished-------](https://www.udemy.com/course/the-complete-sql-bootcamp/)
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu ------ in the process--------](https://www.udemy.com/course/100-days-of-code/)
+- [Postman: The Complete Guide - REST API Testing - Valentin Despa ------in the process-------](https://www.udemy.com/course/postman-the-complete-guide/)
 
 # PROJECTS
 
