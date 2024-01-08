@@ -4,7 +4,7 @@
 - I have started to interest of software testing
 - My goal is to develop testing knowledge and technical skills
 - On this site I would like to share my all gained experience from personal studies and research
-- I've just finished SQL course and [Postman: The Complete Guide - REST API Testing - Valentin Despa](https://www.udemy.com/course/postman-the-complete-guide/)
+- I've just finished SQL course and already in process of [Postman: The Complete Guide - REST API Testing - Valentin Despa](https://www.udemy.com/course/postman-the-complete-guide/)
 
 # TOOLS and TECHNOLOGIES
 
