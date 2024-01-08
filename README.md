@@ -14,7 +14,7 @@
 - [DevTools - tools for testing and debugging source code](https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/)
 - HTML, CSS 
 - [Visual Studio Code - for "coding"](https://code.visualstudio.com)
-- [PyCharm - Python coding](https://www.jetbrains.com/pycharm/)
+- [PyCharm - IDE Python coding](https://www.jetbrains.com/pycharm/)
 - [Python](https://www.python.org)
 - XML, JSON
 - [HTTP](https://www.freecodecamp.org/news/what-is-http/)
