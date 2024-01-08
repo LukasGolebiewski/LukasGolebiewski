@@ -3,8 +3,8 @@
 - Hi, I’m @Lukasz
 - I have started to interest of software testing
 - My goal is to develop testing knowledge and technical skills
-- On this site I would like to share my all gained experience from personal studies and researches
-- I’m currently learning SQL queries and some Python basics
+- On this site I would like to share my all gained experience from personal studies and research
+- I've just finished SQL course and taking the Postman API course.
 
 # TOOLS and TECHNOLOGIES
 
