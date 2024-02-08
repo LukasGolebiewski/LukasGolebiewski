@@ -5,7 +5,7 @@
 - My goal is to develop testing knowledge and technical skills in IT field
 - On this site I would like to share my all gained experience from personal studies and research
 - I learn ISTQB theory to pass the exam right now
-- I make my English language more fluent and try to develop vocabulary (italkie + chatGPT)
+- I make my English language more fluent and try to develop vocabulary (italkie, chatGPT, English podcast's)
 - I've just finished SQL course and I am already in process of [Postman: The Complete Guide - REST API Testing - Valentin Despa](https://www.udemy.com/course/postman-the-complete-guide/)
 
 # TOOLS and TECHNOLOGIES
