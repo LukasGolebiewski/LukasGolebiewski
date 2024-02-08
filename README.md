@@ -33,10 +33,9 @@
 
 
 
-
 # BOOKS READ OR BEING READ
 - [Zawód Tester - R.Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
-= [Full Stack Testing - O'Reilly](https://helion.pl/ksiazki/testowanie-full-stack-praktyczny-przewodnik-dostarczania-oprogramowania-wysokiej-jakosci-gayathri-mohan,tefust.htm#format/d)
+- [Full Stack Testing - O'Reilly](https://helion.pl/ksiazki/testowanie-full-stack-praktyczny-przewodnik-dostarczania-oprogramowania-wysokiej-jakosci-gayathri-mohan,tefust.htm#format/d)
 
 # BOOKS TO READ
 - [Jakość projektów informatycznych. Rozwój i testowanie oprogramowania - Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/276514/jakosc-projektow-informatycznych-rozwoj-i-testowanie-oprogramowania)
