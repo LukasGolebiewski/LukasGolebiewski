@@ -26,7 +26,8 @@
 
 # TOOLS/TECHNOLOGY TO LEARN NEXT
 
-- [noSQL (MongoDB) -'MongoDB - The Complete Developer's Guide 2023' Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/mongodb-the-complete-developers-guide/).
+- [noSQL (MongoDB) -'MongoDB - The Complete Developer's Guide 2023' Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
+- [Linux & Terminal Commands - ](https://www.youtube.com/watch?v=ZtqBQ68cfJc&list=PL2UztW33lt6tqcQ0Odfvo3_wixbDJNLNM)
 
 
 
