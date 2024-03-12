@@ -26,6 +26,17 @@
 - xPath Finder - xPath finding tool
 - Github
 
+# PLUGINS for TESTING
+- LambdaTest
+- Resolution Test
+- Bird Eats Bug
+- Awesome screenshots
+- Clear Cache
+- IE Tab
+- Bug Magnet
+- Page Ruler
+- EditThisCookie
+
 # TOOLS/TECHNOLOGY TO LEARN NEXT
 
 - [noSQL (MongoDB) -'MongoDB - The Complete Developer's Guide 2023' Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
