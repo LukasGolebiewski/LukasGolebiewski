@@ -27,7 +27,7 @@
 - Github
 
 # PLUGINS for TESTING
-- LambdaTest
+- [LambdaTest](https://www.lambdatest.com)
 - Resolution Test
 - Bird Eats Bug
 - Awesome screenshots
