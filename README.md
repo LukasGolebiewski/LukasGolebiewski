@@ -46,8 +46,8 @@
 
 # BOOKS READ OR BEING READ
 - [Zawód Tester - R.Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
-- [Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp]([https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy)
-- [Testowanie i jakość oprogramowania. Modele, techniki, narzędzia - Adam Roman]([[https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy](https://lubimyczytac.pl/ksiazka/5024345/testowanie-i-jakosc-oprogramowania-modele-techniki-narzedzia))
+- [Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy)
+- [Testowanie i jakość oprogramowania. Modele, techniki, narzędzia - Adam Roman](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy](https://lubimyczytac.pl/ksiazka/5024345/testowanie-i-jakosc-oprogramowania-modele-techniki-narzedzia)
 
 # BOOKS TO READ
 - [Jakość projektów informatycznych. Rozwój i testowanie oprogramowania - Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/276514/jakosc-projektow-informatycznych-rozwoj-i-testowanie-oprogramowania)
