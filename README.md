@@ -4,9 +4,9 @@
 - I have started to interest of software testing
 - My goal is to develop testing knowledge and technical skills in IT field
 - On this site I would like to share my all gained experience from personal studies and research
-- I learn ISTQB theory to pass the exam right now
-- I make my English language more fluent and try to develop vocabulary (italkie, chatGPT, English podcast's)
-- I've just finished SQL course,  passed ISTQB FL certificate and I am already in process of [Postman: The Complete Guide - REST API Testing - Valentin Despa](https://www.udemy.com/course/postman-the-complete-guide/)
+- I passed ISTQB FL certificate
+- I make my English language more fluent and try to develop vocabulary (chatGPT, English podcast's, speaking with people from all the world)
+- I've just finished SQL course, passed ISTQB FL certificate and I am already in process of [Postman: The Complete Guide - REST API Testing - Valentin Despa](https://www.udemy.com/course/postman-the-complete-guide/)
 
 # TOOLS and TECHNOLOGIES
 
@@ -46,7 +46,8 @@
 
 # BOOKS READ OR BEING READ
 - [Zawód Tester - R.Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
-- [Full Stack Testing - O'Reilly](https://helion.pl/ksiazki/testowanie-full-stack-praktyczny-przewodnik-dostarczania-oprogramowania-wysokiej-jakosci-gayathri-mohan,tefust.htm#format/d)
+- [Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp]([https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy)
+- [Testowanie i jakość oprogramowania. Modele, techniki, narzędzia - Adam Roman]([[https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy](https://lubimyczytac.pl/ksiazka/5024345/testowanie-i-jakosc-oprogramowania-modele-techniki-narzedzia))
 
 # BOOKS TO READ
 - [Jakość projektów informatycznych. Rozwój i testowanie oprogramowania - Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/276514/jakosc-projektow-informatycznych-rozwoj-i-testowanie-oprogramowania)
@@ -66,10 +67,9 @@
 - [GOIT - QA Engineer --- finished-----](https://www.goit.global)
 - [HTML & CSS Full Course - Beginner to Pro - SuperSimpleDev - youtube clone project - in the process](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=4809s)
 - SDET - Manual Software Testing Training
-- SDET - Postman Beginners Crash Course
 - [The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla ----- finished-------](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu ------ in the process--------](https://www.udemy.com/course/100-days-of-code/)
-- [Postman: The Complete Guide - REST API Testing - Valentin Despa ------in the process-------](https://www.udemy.com/course/postman-the-complete-guide/)
+- [Postman: The Complete Guide - REST API Testing - Valentin Despa ------in the process 48%-------](https://www.udemy.com/course/postman-the-complete-guide/)
 
 # PROJECTS
 
