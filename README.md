@@ -59,9 +59,8 @@
 - [How Tests Software - James Whittakes, Jason Arbon, Jeff Carollo](https://lubimyczytac.pl/ksiazka/199649/how-google-tests-software)
 - Handbook of Software Quality Assurance - G. Gordon Schulmeyer
 - Exploratory Software Testing - James A. Whittakes
-- Czysty Kod. Podrecznik dobrego programisty - Robert C. Martin
-- Pragmatyczny programista. Od czeladnika do mistrza - Hunt Andrew, David Thomas
 - Piec dysfunkcji pracy zespolowe - Patrick Lencioni
+- Testowanie oprogramowania - Ron Paton
 
 # COURSES AND CERTIFICATES
 
