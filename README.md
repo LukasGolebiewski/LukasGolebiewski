@@ -74,6 +74,7 @@
 
 # PROJECTS
 
+- [Specyfikacja projektu dla QA](https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?gid=0#gid=0)
 
 <!---
 LukasGolebiewski/LukasGolebiewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
