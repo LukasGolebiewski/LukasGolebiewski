@@ -72,9 +72,10 @@
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu ------ in the process--------](https://www.udemy.com/course/100-days-of-code/)
 - [Postman: The Complete Guide - REST API Testing - Valentin Despa ------in the process 48%-------](https://www.udemy.com/course/postman-the-complete-guide/)
 
-# PROJECTS
+# PROJECT 1 - Manual Testing
 
 - [Specyfikacja projektu dla QA](https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?gid=0#gid=0)
+- [Makiety projektu/ Design](https://www.figma.com/design/m2DLMAhjLHuQOPuIdwnGAI/Kapusta?node-id=19401-155&node-type=frame)
 
 <!---
 LukasGolebiewski/LukasGolebiewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
