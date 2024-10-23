@@ -76,7 +76,7 @@
 
 - [Specyfikacja projektu dla QA](https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?gid=0#gid=0)
 - [Makiety projektu/ Design](https://www.figma.com/design/m2DLMAhjLHuQOPuIdwnGAI/Kapusta?node-id=19401-155&node-type=frame)
-- [Przypadki testowe/ Test cases - in progress](https://docs.google.com/spreadsheets/d/1eX_Y_il7Lv6hli1xZ6b2JYVhAAsl1JQ2WLtLRuBQbNA/edit?usp=sharing)
+- [Przypadki testowe/ Test cases - in progress/ update] (https://docs.google.com/spreadsheets/d/1eX_Y_il7Lv6hli1xZ6b2JYVhAAsl1JQ2WLtLRuBQbNA/edit?usp=sharing)
 - [Plan testów](https://docs.google.com/document/d/1TlorQK-lI-chs20OA18lRE5PUbcjgyXYNeuJbqukKaE/edit?usp=sharing)
 
 <!---
