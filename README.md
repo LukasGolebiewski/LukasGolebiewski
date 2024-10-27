@@ -6,7 +6,6 @@
 - On this site I would like to share my all gained experience from personal studies and research
 - I passed ISTQB FL certificate
 - I make my English language more fluent and try to develop vocabulary (chatGPT, English podcast's, speaking with people from all the world)
-- I've just finished SQL course and I am already in process of [Postman: The Complete Guide - REST API Testing - Valentin Despa](https://www.udemy.com/course/postman-the-complete-guide/)
 - TIME FOR A MANUAL TESTING PROJECT!!! no more tutorials :)
 
 # TOOLS and TECHNOLOGIES
