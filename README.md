@@ -82,7 +82,7 @@
 
 # SQL - CHEAT SHEET
 
-
+- [SQL Basics Cheat Sheet](https://docs.google.com/document/d/1aRhxtnacEkxwwtQf8pqDPFndGJY7hMJAvMnC-9AtgU4/edit?usp=sharing) 
 
 # API TESTING PROJECT - POSTMAN
 
