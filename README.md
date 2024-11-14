@@ -39,8 +39,7 @@
 
 # TOOLS/TECHNOLOGY TO LEARN NEXT
 
-- [noSQL (MongoDB) -'MongoDB - The Complete Developer's Guide 2023' Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
-- [Linux - The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc&list=PL2UztW33lt6tqcQ0Odfvo3_wixbDJNLNM)
+- [Playwright?]()
 
 
 
@@ -77,7 +76,6 @@
 - [Test cases - in progress  2024](https://docs.google.com/spreadsheets/d/1eX_Y_il7Lv6hli1xZ6b2JYVhAAsl1JQ2WLtLRuBQbNA/edit?usp=sharing)
 - [Bug report - in progress  2024](https://docs.google.com/spreadsheets/d/1v4yDJzzmSCNeEcopqnl_NVwJnNm_qKdEHL6qv17JPhE/edit?usp=sharing)
 - [Plan testów - in progress 2024](https://docs.google.com/document/d/1TlorQK-lI-chs20OA18lRE5PUbcjgyXYNeuJbqukKaE/edit?usp=sharing)
-- 
 
 
 # SQL - CHEAT SHEET
