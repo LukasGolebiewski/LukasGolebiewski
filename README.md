@@ -37,6 +37,9 @@
 - Page Ruler
 - EditThisCookie
 
+# PODCAST'S
+- [Po szklanie i na testowanie](https://poszklanieinatestowanie.pl)
+
 # TOOLS/TECHNOLOGY TO LEARN NEXT
 
 - [Playwright?]()
