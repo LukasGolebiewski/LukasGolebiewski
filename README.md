@@ -6,7 +6,13 @@
 - On this site I would like to share my all gained experience from personal studies and research
 - I passed ISTQB FL certificate
 - I make my English language more fluent and try to develop vocabulary (chatGPT, English podcast's, speaking with people from all the world)
-- TIME FOR A MANUAL TESTING PROJECT!!! no more tutorials :)
+- [Software Functional Testing self-paced](https://campus.epam.com/en/training/4505?utm_source=careers?utm_medium=job-post&utm_campaign=ta&utm_content=pl-sft-4505)
+    - Online self-study modules and practical tasks, with individual mentor Q&A sessions and a final assessment
+    - General Testing Theory (SDLC, Agile Frameworks, STLC, Test Artifacts, Test Methods, Types and Levels, Main Testing Terms)
+    - Test Planning and Analysis
+    - Test Documentation
+    - Test Design Techniques
+    - Defect and Results Reporting
 
 # TOOLS and TECHNOLOGIES
 
