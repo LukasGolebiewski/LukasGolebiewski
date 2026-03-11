@@ -5,6 +5,7 @@
 - My goal is to develop testing knowledge and technical skills in IT field
 - On this site I would like to share my all gained experience from personal studies and research
 - I passed ISTQB FL certificate
+- I passed Google Cloud Certificate Digital Leader 
 - I make my English language more fluent and try to develop vocabulary (chatGPT, English podcast's, speaking with people from all the world)
 - [Software Functional Testing self-paced](https://campus.epam.com/en/training/4505?utm_source=careers?utm_medium=job-post&utm_campaign=ta&utm_content=pl-sft-4505)
     - Online self-study modules and practical tasks, with individual mentor Q&A sessions and a final assessment
@@ -13,6 +14,11 @@
     - Test Documentation
     - Test Design Techniques
     - Defect and Results Reporting
+  - Quality Assurance Engineer Intern in Grid Dynamics
+    - Testing process, Types of tests, Test design techniques, Testing artifacts, Requirements analysis
+    - Testing Tools (Postman, Charles Proxy, Chrome Devtools,
+    - MySQL/PostgreSQL, Git)
+    - Google Cloud Certification
 
 # TOOLS and TECHNOLOGIES
 
@@ -48,7 +54,7 @@
 
 # TOOLS/TECHNOLOGY TO LEARN NEXT
 
-- [Playwright?]()
+- [JS/TS/Playwright?]()
 - [Postman: The Complete Guide - REST API Testing - Valentin Despa ------in the process 48%-------](https://www.udemy.com/course/postman-the-complete-guide/)
 
 
@@ -75,9 +81,9 @@
 # COURSES AND CERTIFICATES
 
 - [GOIT - QA Engineer](https://www.goit.global) - finished
-- [HTML & CSS Full Course - Beginner to Pro - SuperSimpleDev - youtube-clone project - in the process](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=4809s)
+- [HTML & CSS Full Course - Beginner to Pro - SuperSimpleDev - youtube-clone project - learning basics](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=4809s)
 - [The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla](https://www.udemy.com/course/the-complete-sql-bootcamp/) - finished
-- [100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu ------ in the process--------](https://www.udemy.com/course/100-days-of-code/)
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu ------ learning basics--------](https://www.udemy.com/course/100-days-of-code/)
 
 # PROJECT 1 - Manual Testing
 
