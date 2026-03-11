@@ -14,7 +14,7 @@
     - Test Documentation
     - Test Design Techniques
     - Defect and Results Reporting
-- Quality Assurance Engineer Intern in Grid Dynamics
+- [Quality Assurance Engineer Intern in Grid Dynamics](https://portal.griddynamics.net/internship/poland/wroclaw)
     - Testing process, Types of tests, Test design techniques, Testing artifacts, Requirements analysis
     - Testing Tools (Postman, Charles Proxy, Chrome Devtools,
     - MySQL/PostgreSQL, Git)
