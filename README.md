@@ -19,6 +19,13 @@
     - Testing Tools (Postman, Charles Proxy, Chrome Devtools,
     - MySQL/PostgreSQL, Git)
     - Google Cloud Certification
+- [Automated Testing in JavaScript]
+    - JavaScript Classes and OOP
+    - Asynchronous programming
+    - Intro in Automated Testing with JavaScript
+    - Unit testing frameworks in JavaScript
+    - WebDriverIO
+    - BDD with JavaScript
 
 # TOOLS and TECHNOLOGIES
 
