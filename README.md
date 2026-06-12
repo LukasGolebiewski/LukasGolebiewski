@@ -7,7 +7,7 @@
 - I passed ISTQB FL certificate
 - I passed Google Cloud Certificate Digital Leader 
 - I make my English language more fluent and try to develop vocabulary (chatGPT, English podcast's, speaking with people from all the world)
-- [Software Functional Testing self-paced](https://campus.epam.com/en/training/4505?utm_source=careers?utm_medium=job-post&utm_campaign=ta&utm_content=pl-sft-4505)
+- [Software Functional Testing self-paced EPAM](https://campus.epam.com/en/training/4505?utm_source=careers?utm_medium=job-post&utm_campaign=ta&utm_content=pl-sft-4505)
     - Online self-study modules and practical tasks, with individual mentor Q&A sessions and a final assessment
     - General Testing Theory (SDLC, Agile Frameworks, STLC, Test Artifacts, Test Methods, Types and Levels, Main Testing Terms)
     - Test Planning and Analysis
@@ -19,7 +19,7 @@
     - Testing Tools (Postman, Charles Proxy, Chrome Devtools,
     - MySQL/PostgreSQL, Git)
     - Google Cloud Certification
-- [Automated Testing in JavaScript](https://campus.epam.com/en/training/4956)
+- [Automated Testing in JavaScript EPAM](https://campus.epam.com/en/training/4956)
     - JavaScript Classes and OOP
     - Asynchronous programming
     - Intro in Automated Testing with JavaScript
