@@ -19,7 +19,7 @@
     - Testing Tools (Postman, Charles Proxy, Chrome Devtools,
     - MySQL/PostgreSQL, Git)
     - Google Cloud Certification
-- [Automated Testing in JavaScript]
+- [Automated Testing in JavaScript](https://campus.epam.com/en/training/4956)
     - JavaScript Classes and OOP
     - Asynchronous programming
     - Intro in Automated Testing with JavaScript
