@@ -90,7 +90,6 @@
 - [GOIT - QA Engineer](https://www.goit.global) - finished
 - [HTML & CSS Full Course - Beginner to Pro - SuperSimpleDev - youtube-clone project - learning basics](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=4809s)
 - [The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla](https://www.udemy.com/course/the-complete-sql-bootcamp/) - finished
-- [100 Days of Code: The Complete Python Pro Bootcamp for 2023' Dr. Angela Yu ------ learning basics--------](https://www.udemy.com/course/100-days-of-code/)
 
 # PROJECT 1 - Manual Testing
 
