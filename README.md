@@ -7,7 +7,6 @@
 I build AI-powered automations that take repetitive work off people's hands.
 
 [![Email](https://img.shields.io/badge/Email-lukas__g%40wp.pl-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lukas_g@wp.pl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TWOJ-PROFIL)
 [![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-00539F?style=flat)](https://www.istqb.org/)
 
 </div>
