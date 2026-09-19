@@ -1,119 +1,27 @@
-# ABOUT ME #
+Hi, I'm Łukasz 👋
 
-- Hi, I’m @Lukasz!
-- I have started to interest of software testing
-- My goal is to develop testing knowledge and technical skills in IT field
-- On this site I would like to share my all gained experience from personal studies and research
-- I passed ISTQB FL certificate
-- I passed Google Cloud Certificate Digital Leader 
-- I make my English language more fluent and try to develop vocabulary (chatGPT, English podcast's, speaking with people from all the world)
-- [Software Functional Testing self-paced EPAM](https://campus.epam.com/en/training/4505?utm_source=careers?utm_medium=job-post&utm_campaign=ta&utm_content=pl-sft-4505)
-    - Online self-study modules and practical tasks, with individual mentor Q&A sessions and a final assessment
-    - General Testing Theory (SDLC, Agile Frameworks, STLC, Test Artifacts, Test Methods, Types and Levels, Main Testing Terms)
-    - Test Planning and Analysis
-    - Test Documentation
-    - Test Design Techniques
-    - Defect and Results Reporting
-- [Quality Assurance Engineer Intern in Grid Dynamics](https://portal.griddynamics.net/internship/poland/wroclaw)
-    - Testing process, Types of tests, Test design techniques, Testing artifacts, Requirements analysis
-    - Testing Tools (Postman, Charles Proxy, Chrome Devtools,
-    - MySQL/PostgreSQL, Git)
-    - Google Cloud Certification
-- [Automated Testing in JavaScript EPAM](https://campus.epam.com/en/training/4956)
-    - JavaScript Classes and OOP
-    - Asynchronous programming
-    - Intro in Automated Testing with JavaScript
-    - Unit testing frameworks in JavaScript
-    - WebDriverIO
-    - BDD with JavaScript
+I build AI-powered automations and RAG systems that take repetitive work off people's hands.
 
-# TOOLS and TECHNOLOGIES
+Before software I spent several years in industrial B2B — measurement and instrumentation (pressure, temperature, transducers, data loggers). That background is why I tend to start from the process rather than the tool: I'm usually more interested in what is actually worth automating than in which platform does it.
 
-- [Postman - testing REST API](https://www.postman.com)
-- [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com)
-- [TestRail - for tracking all test activities and metrics in a single platform ](https://www.testrail.com/)
-- [DevTools - tools for testing and debugging source code](https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/)
-- HTML, CSS 
-- [Visual Studio Code - for "coding"](https://code.visualstudio.com)
-- [PyCharm - IDE Python coding](https://www.jetbrains.com/pycharm/)
-- [Python](https://www.python.org)
-- XML, JSON
-- [HTTP](https://www.freecodecamp.org/news/what-is-http/)
-- [Code 2 FLOW - pseudocode visualization](https://code2flow.com)
-- [Bug Magnet - Exploratory testing assistant for Chrome and Firefox](https://bugmagnet.org)
-- [Mouse Recorder - mouse and keyboard recording macro](https://www.mouserecorder.com)
-- xPath Finder - xPath finding tool
-- Github
+I also come from a testing background (ISTQB Foundation Level), which means I test and monitor what I build instead of shipping and hoping.
 
-# PLUGINS for TESTING
-- [LambdaTest](https://www.lambdatest.com)
-- Resolution Test
-- Bird Eats Bug
-- Awesome screenshots
-- Clear Cache
-- IE Tab
-- Bug Magnet
-- Page Ruler
-- EditThisCookie
+Projects
 
-# PODCAST'S
-- [Po szklanie i na testowanie](https://poszklanieinatestowanie.pl)
+ai-brain — RAG knowledge assistant Ask questions against your own PDFs and web articles. Node.js/Express, Supabase pgvector, OpenAI embeddings, two-model Claude setup (Haiku translates the query, Sonnet answers), source citations with similarity scores. 4,600+ indexed fragments.
 
-# TOOLS/TECHNOLOGY TO LEARN NEXT
+<!-- TODO: dopisz pozostałe, gdy repozytoria będą publiczne: **COYEMY** — meal-planning PWA React + Supabase, weekly plans, shopping lists, grocery promo integration. **Lekcjowo** — AI tutoring platform Socratic-method tutoring for grade 7–8 math and physics. **Wspinio** — PWA for climbing coaches Training plans, recovery monitoring, injury prevention. -->
+Stack
 
-- [JS/TS/Playwright?]()
-- [Postman: The Complete Guide - REST API Testing - Valentin Despa ------in the process 48%-------](https://www.udemy.com/course/postman-the-complete-guide/)
+AI & automation — LLM prompting, RAG, Claude API, OpenAI API, embeddings, document data extraction Backend & data — Node.js, Express, REST APIs, webhooks, JSON/XML/CSV, SQL, Supabase/PostgreSQL Frontend — JavaScript, HTML, CSS, React Testing — Postman, test design, bug reporting, WebdriverIO (learning) Tools — Git, GitHub, VS Code, Jira, TestRail
 
+Background & certificates
+ISTQB Foundation Level
+Google Cloud Certified — Digital Leader
+QA Engineer Intern @ Grid Dynamics (2025)
+EPAM Software Functional Testing Program (2024–2025)
+EPAM Automated Testing in JavaScript (2026, in progress)
+~3 years in technical B2B sales support — industrial measurement instrumentation
+Currently learning
 
-
-
-# BOOKS READ OR BEING READ
-- [Zawód Tester - R.Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester) - finished
-- [Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy) - finished
-- [Testowanie i jakość oprogramowania. Modele, techniki, narzędzia - Adam Roman](https://lubimyczytac.pl/ksiazka/5024345/testowanie-i-jakosc-oprogramowania-modele-techniki-narzedzia)
-- [Testowanie oprogramowania w praktyce. Studium przypadków 2.0](https://lubimyczytac.pl/ksiazka/4928223/testowanie-oprogramowania-w-praktyce-studium-przypadkow-2-0)
-
-# BOOKS TO READ
-- [Jakość projektów informatycznych. Rozwój i testowanie oprogramowania - Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/276514/jakosc-projektow-informatycznych-rozwoj-i-testowanie-oprogramowania)
-- Tap Into Mobile Application - Jonathan Kohl
-- [Testy jednostkowe. Świat niezawodnych aplikacji - Roy Osherove](https://lubimyczytac.pl/ksiazka/243300/testy-jednostkowe-swiat-niezawodnych-aplikacji)
-- [Testowanie oprogramowania. Podręcznik dla początkujących - Rafał Pawlak](https://lubimyczytac.pl/ksiazka/236563/testowanie-oprogramowania-podrecznik-dla-poczatkujacych)
-- Software Requirements - Karl Wiegers, Joy Beatty
-- [How Tests Software - James Whittakes, Jason Arbon, Jeff Carollo](https://lubimyczytac.pl/ksiazka/199649/how-google-tests-software)
-- Handbook of Software Quality Assurance - G. Gordon Schulmeyer
-- Exploratory Software Testing - James A. Whittakes
-- Piec dysfunkcji pracy zespolowe - Patrick Lencioni
-- Testowanie oprogramowania - Ron Paton
-
-# COURSES AND CERTIFICATES
-
-- [GOIT - QA Engineer](https://www.goit.global) - finished
-- [HTML & CSS Full Course - Beginner to Pro - SuperSimpleDev - youtube-clone project - learning basics](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=4809s)
-- [The Complete SQL Bootcamp: Go from Zero to Hero' Jose Portilla](https://www.udemy.com/course/the-complete-sql-bootcamp/) - finished
-
-# PROJECT 1 - Manual Testing
-
-- [Specyfikacja projektu dla QA](https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?gid=0#gid=0)
-- [Makiety projektu/ Design](https://www.figma.com/design/m2DLMAhjLHuQOPuIdwnGAI/Kapusta?node-id=19401-155&node-type=frame)
-- [Test cases - in progress  2024](https://docs.google.com/spreadsheets/d/1eX_Y_il7Lv6hli1xZ6b2JYVhAAsl1JQ2WLtLRuBQbNA/edit?usp=sharing)
-- [Bug report - in progress  2024](https://docs.google.com/spreadsheets/d/1v4yDJzzmSCNeEcopqnl_NVwJnNm_qKdEHL6qv17JPhE/edit?usp=sharing)
-- [Plan testów - in progress 2024](https://docs.google.com/document/d/1TlorQK-lI-chs20OA18lRE5PUbcjgyXYNeuJbqukKaE/edit?usp=sharing)
-
-
-# SQL - CHEAT SHEET
-
-- [SQL Basics Cheat Sheet](https://docs.google.com/document/d/1aRhxtnacEkxwwtQf8pqDPFndGJY7hMJAvMnC-9AtgU4/edit?usp=sharing) 
-
-# API TESTING PROJECT - POSTMAN
-
-
-# PLAYWRIGHT - AUTOMATION TESTING
-
-
-
-
-
-<!---
-LukasGolebiewski/LukasGolebiewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Workflow automation platforms (n8n, Make) and test automation in JavaScript.
